@@ -1,0 +1,7 @@
+# Capstone-task-1
+
+In this task we create a finance calculator that calculates the interest on an investment or the amount that needs to be repaid on a bond. A menu of options should be outputted, the options being "Investment" or "Bond".
+If the user chooses Investment or Bond the case should not matter, if no input is given an appropriate message should be given. The user shoud be able to choose which calculation they want to do based on the menu. If the user chooses Investment they should be asked to input variables. The total amount should be given, the interest rate as a percentage, the number of years they plan on investing for, then the user should be asked to input which choice of method of interest they want: Simple or Compound and then outputted as appropriate using the correct formulas.
+Simple interest, A = P(1 + r*t). Compound interest, A = P(1+r)^t where P is the principal amount invested, r is the interest as a percentage and t is how long the investment will be for in years.
+If the user chooses Bond,the following should be requested: The present value of the house, the interest rate, the number of months they plan to take to repay the bond. The bond repayment should then be outputted using the correct formula
+Repayment = x = (i*P)/(1- (1+i)^(-n)) where P is the present value of the house, I is the monthly interest rate, the interest rate divided by 12, and n is the number of months over which the bond will be repaid. 
