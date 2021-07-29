@@ -1,4 +1,4 @@
-# Capstone-task-1
+# Capstone-task-I
 
 In this task we create a finance calculator that calculates the interest on an investment or the amount that needs to be repaid on a bond. A menu of options should be outputted, the options being "Investment" or "Bond".
 If the user chooses Investment or Bond the case should not matter, if no input is given an appropriate message should be given. The user shoud be able to choose which calculation they want to do based on the menu. If the user chooses Investment they should be asked to input variables. The total amount should be given, the interest rate as a percentage, the number of years they plan on investing for, then the user should be asked to input which choice of method of interest they want: Simple or Compound and then outputted as appropriate using the correct formulas.
